@@ -1,0 +1,3 @@
+export ROS_IP=150.254.21.216
+export ROS_MASTER_URI=http://150.254.21.216:11311
+
